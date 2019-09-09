@@ -1,6 +1,6 @@
 # Google Earth kml文件根属性一定要设置为<kml xmlns:dc="http://www.opengis.net/kml/2.2">才能解析成功 默认的是xmlns，必须加上dc
 # 2019年9月7日 17:21:55
-# ROCEYS.CN
+# Https://ROCEYS.CN
 
 import sys
 import xml.etree.ElementTree as kml
